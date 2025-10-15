@@ -56,7 +56,11 @@
 19. [Bitwarden](https://github.com/bitwarden/ios)
 20. [SimpleX Chat](https://github.com/simplex-chat/simplex-chat)
 21. [Foundation Models Framework Example](https://github.com/rudrankriyam/Foundation-Models-Framework-Example)
-22. [Nextcloud](https://github.com/nextcloud/ios)
+22. [Nextcloud](https://github.com/nextcloud/ios)ost](https://github.com/mattermost/mattermost-mobile)
+28. [Nextcloud Talk](https://github.com/nextcloud/talk-ios)
+29. [Emerge Tools Hacker News](https://github.com/EmergeTools/hackernews)
+30. [OsmAnd Maps](https://github.com/osmandapp/Osmand)
+
 23. [FluffyChat](https://github.com/krille-chan/fluffychat)
 24. [Swiftfin](https://github.com/jellyfin/Swiftfin)
 25. [Rainbow](https://github.com/rainbow-me/rainbow)
