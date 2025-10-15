@@ -78,7 +78,11 @@ ost](https://github.com/mattermost/mattermost-mobile)
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
 
-## Contact
+## Contactost](https://github.com/mattermost/mattermost-mobile)
+28. [Nextcloud Talk](https://github.com/nextcloud/talk-ios)
+29. [Emerge Tools Hacker News](https://github.com/EmergeTools/hackernews)
+30. [OsmAnd Maps](https://github.com/osmandapp/Osmand)
+
 
 - [github.com/dkhamsing](https://github.com/dkhamsing)
 - [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
