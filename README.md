@@ -6,23 +6,6 @@
 
 
 
-- [Apple TV](#apple-tv) 
-- [Apple Vision](#apple-vision) 
-- [Apple Watch](#apple-watch) 
-- [Browser](#browser) 
-- [Calculator](#calculator) 
-- [Calendar](#calendar) 
-- [Color](#color) 
-- [Clock](#clock) 
-- [Clone](#clone) 
-- [Communication](#communication) 
-- [Developer](#developer) 
-  - [GitHub](#github) 
-  - [Terminal](#terminal) 
-- [Education](#education) 
-- [Emulator](#emulator) 
-- [Event](#event) 
-- [Extension](#extension) 
   - [Content Blocking](#content-blocking) 
   - [Safari Extension](#safari-extension) 
   - [Today](#today) 
