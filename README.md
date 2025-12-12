@@ -2,7 +2,6 @@
 
 <!-- 
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
- https://github.com/dkhamsing/open-source-ios-apps -->
 
 
   - [Content Blocking](#content-blocking) 
