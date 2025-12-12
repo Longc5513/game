@@ -2,7 +2,7 @@
 # Open-Source iOS Apps
 
 <!-- 
-⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
+
   - [Content Blocking](#content-blocking) 
 
   - [Safari Extension](#safari-extension) 
